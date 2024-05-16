@@ -1,4 +1,4 @@
-Mapserver 4 SoilWise-HE
+Mapserver for SoilWise-HE
 =======================
 
 - Component: Data API's
