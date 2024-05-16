@@ -1,3 +1,15 @@
+Mapserver 4 SoilWise-HE
+=======================
+
+- Component: Data API's
+- Lead: Paul (ISRIC)
+
+The mapserver component provides OGC services (wms, wfs, wcs, ogcapi-features) for high value datasets.
+
+High value datasets are persisted to the EUSO infrastructure (with their metadata) and OGC services are made available to access them.
+
+Configuration of mapserver is created using [pyGeoDataCrawler](https://pypi.org/project/geodatacrawler/) from metadata
+
 MapServer
 =========
 
